@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.995968 0.995968 0.995968 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>Input-Regular - 10.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0.995968 0.995968 0.995968 1</string>
+	<string>0.999873 1 0.999841 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>Input-Regular - 10.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.269583 0.704479 0.84096 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>Input-Regular - 10.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.995968 0.995968 0.995968 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>Input-Regular - 10.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.995968 0.995968 0.995968 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>Input-Regular - 10.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.153735 0.158026 0.134656 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -37,7 +37,7 @@
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.954082 0.954082 0.954082 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
-	<string>0.606186 0.623105 0.530956 1</string>
+	<string>0.520551 0.520651 0.520535 1</string>
 	<key>DVTSourceTextSelectionColor</key>
 	<string>0.206911 0.212687 0.181233 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
@@ -51,9 +51,9 @@
 		<key>xcode.syntax.comment.doc</key>
 		<string>0.466618 0.440176 0.375683 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.466667 0.439216 0.376471 1</string>
+		<string>0.330373 0.31231 0.264685 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.652603 0.888057 0.181576 1</string>
+		<string>0.327648 0.869403 0.396378 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.652603 0.888057 0.181576 1</string>
 		<key>xcode.syntax.identifier.constant</key>
@@ -65,13 +65,13 @@
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.993407 0.591746 0.120865 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.327648 0.869403 0.396378 1</string>
+		<string>0.680619 0.503594 0.999973 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.327648 0.869403 0.396378 1</string>
+		<string>0.680619 0.503594 0.999973 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.993407 0.373135 0.120865 1</string>
+		<string>0.913103 0.838289 0.0449308 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.993407 0.591746 0.120865 1</string>
+		<string>0.913103 0.838289 0.0449308 1</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>0.401493 0.851756 0.935755 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
@@ -92,51 +92,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Input-Regular - 11.0</string>
 	</dict>
 </dict>
 </plist>
