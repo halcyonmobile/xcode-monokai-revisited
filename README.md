@@ -21,7 +21,7 @@ Installation
 
 **Xcode >= 7.0**
 
-1.  Change the theme file's extension to ``.xccolortheme``
-2.	Copy the theme file to the Xcode's ``FontAndColorThemes`` folder ``(/Applications/Xcode.app/Contents/SharedFrameworks/DVTKit.framework/Versions/A/Resources/FontAndColorThemes/)``.
-3.  Restart Xcode.
-4.	Apply theme.
+1. Change the theme file's extension to ``.xccolortheme``
+2. Copy the theme file to the Xcode's ``FontAndColorThemes`` folder ``(/Applications/Xcode.app/Contents/SharedFrameworks/DVTKit.framework/Versions/A/Resources/FontAndColorThemes/)``.
+3. Restart Xcode.
+4. Apply theme.
